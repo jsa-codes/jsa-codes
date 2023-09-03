@@ -32,6 +32,6 @@
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,nextjs,figma,tailwind,bootstrap,git,github,postman,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,nextjs,figma,tailwind,bootstrap,git,github,postman,vscode,nodejs&perline=5" />
   </a>
 </p>
